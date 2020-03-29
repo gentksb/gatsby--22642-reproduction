@@ -35,7 +35,7 @@ module.exports = {
             options: {
               maxWidth: 800,
               maxHeight: 450,
-              fit: `contain`,
+              fit: `inside`,
               linkImagesToOriginal: true,
               loading: `lazy`,
               disableBgImage: true,
